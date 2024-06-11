@@ -131,6 +131,7 @@ class Demo {
         System.out.println("Bienvenido a Mussa!! Qué deseas hacer?");
         System.out.println("");
         System.out.println("1. Mostrar tu playList!");
+        System.out.println("2. Salir.");
         op = scanner.nextInt();
         
             if(op == 1){
